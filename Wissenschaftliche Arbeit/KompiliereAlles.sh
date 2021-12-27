@@ -1,4 +1,3 @@
-#!/bin/bash
 dokument=main
 pdflatex -draftmode $dokument.tex
 biber $dokument
